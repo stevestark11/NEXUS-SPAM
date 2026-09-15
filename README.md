@@ -16,7 +16,7 @@ Ouvre ton application iSH sur ton iPhone et entre les commandes suivantes une pa
 
 ```bash
 apk update && apk add git python3 py3-pip
-git clone [https://github.com/TON-PSEUDO/NEXUS-SPAM.git](https://github.com/TON-PSEUDO/NEXUS-SPAM.git)
+git clone https://github.com/stevestark11/NEXUS-SPAM
 cd NEXUS-SPAM
 pip install -r requirements.txt
 python main.py
